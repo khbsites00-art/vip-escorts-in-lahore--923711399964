@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khbsites00-art.github.io/vip-escorts-in-lahore--923711399964/sitemap.xml
